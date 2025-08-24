@@ -11,11 +11,15 @@
 
 ## 🤹 My Skills
 
-- ❤ I'm a self-taught passionate developer.
-- 🤔 Overthinker.
-- 🔥 Full Stack Web and App Developer.
-- 🧑‍💻 Software Engineer specializing in Typescript. Sometime Rust and Go too.
-- 💙 Love to contribute to open source projects.
+
+## 🤹 About Me
+
+- 🎓 Software Engineering student.
+- 💻 Web developer.
+- ⚡ Interested in all things tech.
+- 🌱 Always learning and improving my programming skills.
+- 🎮 Lover of music, TV shows, and video games.
+- 🤝 Open to collaboration and teamwork.
 
 ## 🏆 My GitHub Stats
 
