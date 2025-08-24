@@ -30,11 +30,9 @@
 ## 🏆 My GitHub Stats
 
 <div>
-  <p align="center">
-<a href="https://github-readme-streak-stats.herokuapp.com/?user=kerizrh&theme=algolia">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kerizrh&theme=algolia&count-private=true&v=2" />
-</a>
-  </p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=kerizrh&theme=algolia&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
+</p>
 </div>
 <br/>
 
