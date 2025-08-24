@@ -10,6 +10,13 @@
 <p align="center"><b>🚀 Build fast, fix later.</b></p>
 <hr/>
 
+## 🤹 Skill
+
+- **Languages:** JavaScript, TypeScript, Python, Java, PHP  
+- **Frontend:** React, HTML, CSS, Tailwind CSS  
+- **Backend:** Node.js, Laravel, Spring Boot  
+- **Databases:** MySQL, MariaDB, PostgreSQL / PostgREST  
+- **Tools:** Git, Docker, VS Code, DBeaver, AI
 
 ## 🤹 About Me
 
