@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/74945038?v=4" width="120" style="border-radius:50%" alt="Imran Barbhuiya Avatar"/>
+  <img src="https://avatars.githubusercontent.com/u/114261500?v=4" width="120" style="border-radius:50%" alt="Imran Barbhuiya Avatar"/>
 </p>
 
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Imran Barbhuiya</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">,I'm Kevin Rivera (KerizRH)</h1>
 <p align="center">
   <a href="https://parbez.me">parbez.me</a>
 </p>
