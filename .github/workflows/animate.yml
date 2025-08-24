@@ -1,32 +1,29 @@
-name: GitHub Snake
+name: Render Animation
 
 on:
-  push:
-    branches:
-      - main   # o tu rama principal
   schedule:
-    - cron: '0 0 * * *'  # ejecuta todos los días a medianoche
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+  push:
 
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
+    env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
-
-      - name: Set up Node.js
-        uses: actions/setup-node@v3
+      - name: Render github-contribution-grid-snake.svg
+        uses: Platane/snk@v3
         with:
-          node-version: '20'
-
-      - name: Generate Snake
-        run: npx github-snake --username Kerizrh --output ./output/github-snake.svg
-
-      - name: Commit and push
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add output/github-snake.svg
-          git commit -m "Update GitHub Snake" || echo "No changes to commit"
-          git push origin HEAD:output
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+      - name: Commit github-contribution-grid-snake.svg to the output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
