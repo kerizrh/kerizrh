@@ -109,12 +109,17 @@
     </td>
   </tr>
 
-  <tr>
+<tr>
+    <!-- OS / AI -->
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50"/><br>Linux
+    </td>
     <td align="center">
       <img src="https://img.icons8.com/fluency/48/artificial-intelligence.png" width="50"/><br>AI
     </td>
-    <td></td>
-    <td></td>
+    <td align="center">
+      <img src="https://img.icons8.com/ios-filled/50/000000/virtual-machine.png" width="50"/><br>VM
+    </td>
     <td></td>
     <td></td>
   </tr>
