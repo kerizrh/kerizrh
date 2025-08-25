@@ -2,11 +2,9 @@ name: Render Animation
 
 on:
   schedule:
-    - cron: '0 */6 * * *' # cada 6 horas
+    - cron: '0 */6 * * *' # Ejecuta cada 6 horas
   workflow_dispatch:
   push:
-    branches:
-      - main
 
 jobs:
   generate:
@@ -20,20 +18,22 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      # 2. Generar el GitHub Snake
+      # 2. Generar github-contribution-grid-snake.svg
       - name: Render github-contribution-grid-snake.svg
         uses: Platane/snk@v3
         with:
-          github_user_name: kerizrh  # <-- tu usuario de GitHub
+          github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-snake.svg
-            dist/github-snake-dark.svg
+            dist/github-snake-dark.svg?palette=github-dark
+            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
 
       # 3. Subir los archivos generados a la rama 'output'
       - name: Commit github-contribution-grid-snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
-          target_branch: output
-          build_dir: dist
-          commit_message: "Update GitHub Snake"
-          keep_files: true
+          target_branch: output       # Rama de salida
+          build_dir: dist             # Carpeta con los archivos generados
+          keep_history: true          # Mantener historial de commits
+          allow_empty_commit: true    # Permite commit aunque no haya cambios
+          commit_message: "Update contribution grid snake"
