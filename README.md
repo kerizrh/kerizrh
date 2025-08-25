@@ -21,7 +21,7 @@
 
 ## 🛠 Skills
 
-<table>
+<table align="center">
   <tr>
     <!-- Languages -->
     <td align="center">
