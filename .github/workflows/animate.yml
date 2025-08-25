@@ -10,6 +10,8 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     timeout-minutes: 10
+    env:
+      GH_PAT: ${{ secrets.GH_PAT }}   # <- define el PAT aquí
 
     steps:
       # 1. Clonar el repositorio
@@ -35,4 +37,3 @@ jobs:
           keep_history: true
           allow_empty_commit: true
           commit_message: "Update contribution grid snake"
-          token: ${{ secrets.GH_PAT }} 
