@@ -12,47 +12,104 @@
 
 ## 🛠 Skills
 
-### Languages
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/>
-</p>
+<table>
+  <tr>
+    <!-- Languages -->
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/><br>JavaScript
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50"/><br>TypeScript
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/><br>Python
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50"/><br>Java
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50"/><br>PHP
+    </td>
+  </tr>
 
-### Frontend
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/>
-</p>
+  <tr>
+    <!-- Frontend -->
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"/><br>React
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/><br>HTML
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/><br>CSS
+    </td>
+    <td align="center">
+      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="50"/><br>Tailwind
+    </td>
+    <td></td>
+  </tr>
 
-### Backend
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/> 
-  <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40"/>
-</p>
+  <tr>
+    <!-- Backend -->
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50"/><br>Node.js
+    </td>
+    <td align="center">
+      <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" width="50"/><br>Laravel
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50"/><br>Spring Boot
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
 
-### Databases
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/> 
-  <img src="https://img.icons8.com/fluency/48/000000/api.png" width="40" height="40" alt="PostgREST"/>
-</p>
+  <tr>
+    <!-- Databases -->
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/><br>MySQL
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" width="50"/><br>MariaDB
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50"/><br>PostgreSQL
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/fluency/48/000000/api.png" width="50"/><br>PostgREST
+    </td>
+    <td></td>
+  </tr>
 
-### Tools
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dbeaver/dbeaver-original.svg" width="40" height="40"/>
-  <img src="https://img.icons8.com/fluency/48/artificial-intelligence.png" width="40" height="40" alt="AI"/>
-</p>
+  <tr>
+    <!-- Tools -->
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/><br>Git
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50"/><br>Docker
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50"/><br>VS Code
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dbeaver/dbeaver-original.svg" width="50"/><br>DBeaver
+    </td>
+    <td align="center">
+      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="50"/><br>Postman
+    </td>
+  </tr>
 
+  <tr>
+    <td align="center">
+      <img src="https://img.icons8.com/fluency/48/artificial-intelligence.png" width="50"/><br>AI
+    </td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
 
 ## 🤹 About Me
 
