@@ -118,7 +118,7 @@
       <img src="https://img.icons8.com/fluency/48/artificial-intelligence.png" width="50"/><br>AI
     </td>
     <td align="center">
-      <img src="https://cdn.worldvectorlogo.com/logos/oracle-vm-virtualbox.svg" width="50"/><br>VM
+    <img src="https://img.icons8.com/color/48/000000/virtualbox.png" width="50"/><br>VM
     </td>
     <td></td>
     <td></td>
