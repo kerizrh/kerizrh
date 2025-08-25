@@ -1,14 +1,11 @@
-
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/114261500?v=4" width="120" style="border-radius:50%" alt="Keriz Avatar"/>
 </p>
-
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">,I'm Kevin Rivera (KerizRH)</h1>
 <p align="center"><b>🚀 A passionate software engineering student and web developer.</b></p>
 <hr/>
 
 ## 🤹 About Me
-
 
 - 🎓 **Software Engineering Student** – Always exploring new technologies and improving my skills.  
 - 💻 **Web Developer** – Focused on building fast, clean, and user-friendly applications.  
@@ -16,8 +13,40 @@
 - 🌱 **Lifelong Learner** – Constantly learning new tools, frameworks, and programming languages.  
 - 🎮 **Fun & Relaxation** – Lover of music, TV shows, and video games.  
 - 🤝 **Team Player** – Open to collaboration, knowledge sharing, and community projects.
-
 ---
+## 🏆 My GitHub Stats
+
+<div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=kerizrh&theme=algolia&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
+</p>
+</div>
+<br/>
+
+![contrib-graph](https://github.com/kerizrh/kerizrh/raw/output/github-snake.svg#gh-light-mode-only)
+![contrib-graph](https://github.com/kerizrh/kerizrh/raw/output/github-snake-dark.svg#gh-dark-mode-only)
+
+
+## 🔗 Connect with me
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="" target="_blank">
+        <img src="https://img.icons8.com/color/48/000000/domain.png" width="40"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/kerizrh" target="_blank">
+        <img src="https://img.icons8.com/ios-glyphs/48/000000/github.png" width="40"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/kevin-armando-rivera-henriquez-971016214/" target="_blank">
+        <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ## 🛠 Skills
 
@@ -122,40 +151,6 @@
     </td>
     <td></td>
     <td></td>
-  </tr>
-</table>
-
-## 🏆 My GitHub Stats
-
-<div>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=kerizrh&theme=algolia&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
-</p>
-</div>
-<br/>
-
-![contrib-graph](https://github.com/kerizrh/kerizrh/raw/output/github-snake.svg#gh-light-mode-only)
-![contrib-graph](https://github.com/kerizrh/kerizrh/raw/output/github-snake-dark.svg#gh-dark-mode-only)
-
-
-## 🔗 Connect with me
-<table align="center">
-  <tr>
-    <td align="center">
-      <a href="" target="_blank">
-        <img src="https://img.icons8.com/color/48/000000/domain.png" width="40"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/kerizrh" target="_blank">
-        <img src="https://img.icons8.com/ios-glyphs/48/000000/github.png" width="40"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.linkedin.com/in/kevin-armando-rivera-henriquez-971016214/" target="_blank">
-        <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40"/>
-      </a>
-    </td>
   </tr>
 </table>
 
