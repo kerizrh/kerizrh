@@ -25,7 +25,7 @@
 ![contrib-graph](https://github.com/kerizrh/kerizrh/raw/output/github-snake.svg#gh-light-mode-only)
 ![contrib-graph](https://github.com/kerizrh/kerizrh/raw/output/github-snake-dark.svg#gh-dark-mode-only)
 ## 🛠 Skills
-<table align="center">
+<table>
   <tr>
     <!-- Languages -->
     <td align="center">
