@@ -10,8 +10,6 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     timeout-minutes: 10
-    env:
-      token: ${{ secrets.GITHUB_TOKEN }}
 
     steps:
       # 1. Clonar el repositorio
@@ -37,3 +35,4 @@ jobs:
           keep_history: true
           allow_empty_commit: true
           commit_message: "Update contribution grid snake"
+          token: ${{ secrets.GH_PAT }} 
