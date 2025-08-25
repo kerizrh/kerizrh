@@ -16,12 +16,14 @@
 ---
 ## 🏆 My GitHub Stats
 
+<div>
 <p align="center">
   <img 
     src="https://streak-stats.demolab.com?user=kerizrh&theme=algolia&date_format=M%20j%5B%2C%20Y%5D" 
     onerror="this.onerror=null; this.src='https://github-readme-stats.vercel.app/api?username=kerizrh&theme=algolia&show_icons=true';" 
     alt="GitHub Streak"/>
 </p>
+</div>
 
 
 ![contrib-graph](https://github.com/kerizrh/kerizrh/raw/output/github-snake.svg#gh-light-mode-only)
