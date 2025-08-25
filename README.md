@@ -141,9 +141,16 @@
 ## 🔗 Connect with me
 
 <p align="center">
-  <a href="" target="_blank">Website ↗</a> •
-  <a href="https://github.com/kerizrh" target="_blank">GitHub ↗</a> •
-  <a href="https://www.linkedin.com/in/kevin-armando-rivera-henriquez-971016214/" target="_blank">Linkedin ↗</a>
+  <a href="" target="_blank">
+    <img src="https://img.shields.io/badge/Website-keriz.rh-blue?style=for-the-badge&logo=googlesitekit" alt="Website"/>
+  </a>
+  <a href="https://github.com/kerizrh" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-kerizrh-black?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/kevin-armando-rivera-henriquez-971016214/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Kevin-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
 </p>
+
 
 
