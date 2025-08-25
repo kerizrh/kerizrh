@@ -148,7 +148,7 @@
     </td>
     <td align="center">
       <a href="https://github.com/kerizrh" target="_blank">
-        <img src="https://img.icons8.com/ios-glyphs/48/000000/github.png" width="40"/><
+        <img src="https://img.icons8.com/ios-glyphs/48/000000/github.png" width="40"/>
       </a>
     </td>
     <td align="center">
