@@ -140,17 +140,26 @@
 
 ## 🔗 Connect with me
 
-<p align="center">
-  <a href="" target="_blank">
-    <img src="https://img.shields.io/badge/Website-keriz.rh-blue?style=for-the-badge&logo=googlesitekit" alt="Website"/>
-  </a>
-  <a href="https://github.com/kerizrh" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-kerizrh-black?style=for-the-badge&logo=github" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/kevin-armando-rivera-henriquez-971016214/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Kevin-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="" target="_blank">
+        <img src="https://img.icons8.com/ios-filled/50/000000/domain.png" width="40"/><br>Website
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/kerizrh" target="_blank">
+        <img src="https://img.icons8.com/ios-glyphs/50/000000/github.png" width="40"/><br>GitHub
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/kevin-armando-rivera-henriquez-971016214/" target="_blank">
+        <img src="https://img.icons8.com/ios-filled/50/0077B5/linkedin.png" width="40"/><br>LinkedIn
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 
 
