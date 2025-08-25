@@ -132,9 +132,14 @@
 ## 🔗 Connect with me
 <table align="center">
   <tr>
-    <td align="center">
+   <!-- <td align="center">
       <a href="" target="_blank">
-        <img src="https://img.icons8.com/color/48/000000/domain.png" width="40"/>
+        <img src="https://img.icons8.com/color/48/000000/domain.png" width="40"/> 
+      </a>
+    </td> -->
+    <td align="center">
+      <a href="https://www.instagram.com/keriz_rh/" target="_blank">
+        <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" width="40"/>
       </a>
     </td>
     <td align="center">
@@ -145,6 +150,11 @@
     <td align="center">
       <a href="https://www.linkedin.com/in/kevin-armando-rivera-henriquez-971016214/" target="_blank">
         <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.tiktok.com/@kerizrh" target="_blank">
+        <img src="https://img.icons8.com/fluency/48/000000/tiktok.png" width="40"/>
       </a>
     </td>
   </tr>
