@@ -4,11 +4,20 @@
 </p>
 
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">,I'm Kevin Rivera (KerizRH)</h1>
-<p align="center">
-  <a href="">keriz.rh</a>
-</p>
-<p align="center"><b>🚀 Build fast, fix later.</b></p>
+<p align="center"><b>🚀 A passionate software engineering student and web developer.</b></p>
 <hr/>
+
+## 🤹 About Me
+
+
+- 🎓 **Software Engineering Student** – Always exploring new technologies and improving my skills.  
+- 💻 **Web Developer** – Focused on building fast, clean, and user-friendly applications.  
+- ⚡ **Tech Enthusiast** – Interested in all things tech, from AI to web development.  
+- 🌱 **Lifelong Learner** – Constantly learning new tools, frameworks, and programming languages.  
+- 🎮 **Fun & Relaxation** – Lover of music, TV shows, and video games.  
+- 🤝 **Team Player** – Open to collaboration, knowledge sharing, and community projects.
+
+---
 
 ## 🛠 Skills
 
@@ -110,15 +119,6 @@
     <td></td>
   </tr>
 </table>
-
-## 🤹 About Me
-
-- 🎓 Software Engineering student.
-- 💻 Web developer.
-- ⚡ Interested in all things tech.
-- 🌱 Always learning and improving my programming skills.
-- 🎮 Lover of music, TV shows, and video games.
-- 🤝 Open to collaboration and teamwork.
 
 ## 🏆 My GitHub Stats
 
