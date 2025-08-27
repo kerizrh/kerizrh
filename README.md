@@ -49,7 +49,7 @@
 
 <hr/>
 
-<p align="center">
+<p>
   <a href="https://www.instagram.com/keriz_rh/" rel="noopener noreferrer" style="margin: 0 10px;">
     <img src="https://img.icons8.com/ios-glyphs/30/888888/instagram.png" alt="Instagram" title="Instagram"/>
   </a>
