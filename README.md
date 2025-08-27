@@ -50,17 +50,17 @@
 
 ## 🔗 Connect with me
 <p>
-  <a href="https://www.instagram.com/keriz_rh/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.icons8.com/fluency/40/instagram-new.png" title="Instagram"/>
+  <a href="https://www.instagram.com/keriz_rh/" rel="noopener noreferrer">
+    <img src="https://img.icons8.com/fluency/40/instagram-new.png" alt="Instagram" title="Instagram"/>
   </a>
-  <a href="https://github.com/kerizrh" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.icons8.com/ios-glyphs/40/github.png" title="GitHub"/>
+  <a href="https://github.com/kerizrh" rel="noopener noreferrer">
+    <img src="https://img.icons8.com/ios-glyphs/40/github.png" alt="GitHub" title="GitHub"/>
   </a>
-  <a href="https://www.linkedin.com/in/kevin-armando-rivera-henriquez-971016214/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.icons8.com/color/40/linkedin.png" title="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/kevin-armando-rivera-henriquez-971016214/" rel="noopener noreferrer">
+    <img src="https://img.icons8.com/color/40/linkedin.png" alt="LinkedIn" title="LinkedIn"/>
   </a>
-  <a href="https://www.tiktok.com/@kerizrh" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.icons8.com/fluency/40/tiktok.png" title="TikTok"/>
+  <a href="https://www.tiktok.com/@kerizrh" rel="noopener noreferrer">
+    <img src="https://img.icons8.com/fluency/40/tiktok.png" alt="TikTok" title="TikTok"/>
   </a>
 </p>
 
