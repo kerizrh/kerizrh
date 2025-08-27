@@ -50,33 +50,17 @@
 <hr/>
 
 <p align="center">
-  <a href="https://www.instagram.com/keriz_rh/" rel="noopener noreferrer" style="margin: 0 12px;">
-    <img src="https://img.icons8.com/ios-glyphs/40/888888/instagram.png" 
-         alt="Instagram" title="Instagram" 
-         style="transition: 0.3s;" 
-         onmouseover="this.style.filter='brightness(1.5)'" 
-         onmouseout="this.style.filter='brightness(1)'"/>
+  <a href="https://www.instagram.com/keriz_rh/" target="_blank">
+    <img src="https://img.icons8.com/fluency/40/instagram-new.png" title="Instagram"/>
   </a>
-  <a href="https://github.com/kerizrh" rel="noopener noreferrer" style="margin: 0 12px;">
-    <img src="https://img.icons8.com/ios-glyphs/40/888888/github.png" 
-         alt="GitHub" title="GitHub" 
-         style="transition: 0.3s;" 
-         onmouseover="this.style.filter='brightness(1.5)'" 
-         onmouseout="this.style.filter='brightness(1)'"/>
+  <a href="https://github.com/kerizrh" target="_blank">
+    <img src="https://img.icons8.com/ios-glyphs/40/github.png" title="GitHub"/>
   </a>
-  <a href="https://www.linkedin.com/in/kevin-armando-rivera-henriquez-971016214/" rel="noopener noreferrer" style="margin: 0 12px;">
-    <img src="https://img.icons8.com/ios-glyphs/40/888888/linkedin.png" 
-         alt="LinkedIn" title="LinkedIn" 
-         style="transition: 0.3s;" 
-         onmouseover="this.style.filter='brightness(1.5)'" 
-         onmouseout="this.style.filter='brightness(1)'"/>
+  <a href="https://www.linkedin.com/in/kevin-armando-rivera-henriquez-971016214/" target="_blank">
+    <img src="https://img.icons8.com/color/40/linkedin.png" title="LinkedIn"/>
   </a>
-  <a href="https://www.tiktok.com/@kerizrh" rel="noopener noreferrer" style="margin: 0 12px;">
-    <img src="https://img.icons8.com/ios-glyphs/40/888888/tiktok.png" 
-         alt="TikTok" title="TikTok" 
-         style="transition: 0.3s;" 
-         onmouseover="this.style.filter='brightness(1.5)'" 
-         onmouseout="this.style.filter='brightness(1)'"/>
+  <a href="https://www.tiktok.com/@kerizrh" target="_blank">
+    <img src="https://img.icons8.com/fluency/40/tiktok.png" title="TikTok"/>
   </a>
 </p>
 
