@@ -11,7 +11,7 @@
 - 🌱 **Lifelong Learner** – Constantly learning new tools, frameworks, and programming languages.  
 - 🎮 **Fun & Relaxation** – Lover of music, TV shows, and video games.  
 - 🤝 **Team Player** – Open to collaboration, knowledge sharing, and community projects.
----
+
 ## 🏆 My GitHub Stats
 
 <div>
