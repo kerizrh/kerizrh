@@ -49,7 +49,7 @@
 ![contrib-graph](https://github.com/kerizrh/kerizrh/raw/output/github-snake-dark.svg#gh-dark-mode-only)
 
 ## 🔗 Connect with me
-<p align="center">
+<p>
   <a href="https://www.instagram.com/keriz_rh/" target="_blank">
     <img src="https://img.icons8.com/fluency/40/instagram-new.png" title="Instagram"/>
   </a>
