@@ -24,110 +24,34 @@
 
 ![contrib-graph](https://github.com/kerizrh/kerizrh/raw/output/github-snake.svg#gh-light-mode-only)
 ![contrib-graph](https://github.com/kerizrh/kerizrh/raw/output/github-snake-dark.svg#gh-dark-mode-only)
+
 ## 🛠 Skills
-<table>
-  <tr>
-    <!-- Languages -->
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/><br>JavaScript
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50"/><br>TypeScript
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/><br>Python
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50"/><br>Java
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50"/><br>PHP
-    </td>
-  </tr>
 
-  <tr>
-    <!-- Frontend -->
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"/><br>React
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/><br>HTML
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/><br>CSS
-    </td>
-    <td align="center">
-      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="50"/><br>Tailwind
-    </td>
-    <td></td>
-  </tr>
-
-  <tr>
-    <!-- Backend -->
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50"/><br>Node.js
-    </td>
-    <td align="center">
-      <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" width="50"/><br>Laravel
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50"/><br>Spring Boot
-    </td>
-    <td></td>
-    <td></td>
-  </tr>
-
-  <tr>
-    <!-- Databases -->
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/><br>MySQL
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" width="50"/><br>MariaDB
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50"/><br>PostgreSQL
-    </td>
-    <td align="center">
-      <img src="https://img.icons8.com/fluency/48/000000/api.png" width="50"/><br>PostgREST
-    </td>
-    <td></td>
-  </tr>
-
-  <tr>
-    <!-- Tools -->
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/><br>Git
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50"/><br>Docker
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50"/><br>VS Code
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dbeaver/dbeaver-original.svg" width="50"/><br>DBeaver
-    </td>
-    <td align="center">
-      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="50"/><br>Postman
-    </td>
-  </tr>
-
-<tr>
-    <!-- OS / AI -->
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50"/><br>Linux
-    </td>
-    <td align="center">
-      <img src="https://img.icons8.com/fluency/48/artificial-intelligence.png" width="50"/><br>AI
-    </td>
-    <td align="center">
-    <img src="https://img.icons8.com/color/48/000000/virtualbox.png" width="50"/><br>VM
-    </td>
-    <td></td>
-    <td></td>
-  </tr>
-</table>
+<p align="center">
+  <!-- Languages & Frameworks -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" title="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" title="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" title="PHP"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" title="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="40" title="Laravel"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" title="Spring Boot"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" title="Tailwind"/>
+  
+  <!-- Databases -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" title="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" width="40" title="MariaDB"/>
+  
+  <!-- Tools -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" title="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" title="VS Code"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" title="Postman"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" title="Linux"/>
+</p>
 
 ## 🔗 Connect with me
 <table align="center">
