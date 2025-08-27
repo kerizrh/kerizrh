@@ -36,7 +36,7 @@
 - 🌱 **Lifelong Learner** – Constantly learning new tools, frameworks, and programming languages.  
 - 🎮 **Fun & Relaxation** – Lover of music, TV shows, and video games.  
 - 🤝 **Team Player** – Open to collaboration, knowledge sharing, and community projects.
-
+<hr/>
 <div>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=kerizrh&theme=algolia&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
@@ -45,8 +45,7 @@
 
 ![contrib-graph](https://github.com/kerizrh/kerizrh/raw/output/github-snake.svg#gh-light-mode-only)
 ![contrib-graph](https://github.com/kerizrh/kerizrh/raw/output/github-snake-dark.svg#gh-dark-mode-only)
-
-## 🔗 Connect with me
+<hr/>
 <p>
   <a href="https://www.instagram.com/keriz_rh/" rel="noopener noreferrer">
     <img src="https://img.icons8.com/fluency/40/instagram-new.png" alt="Instagram" title="Instagram"/>
