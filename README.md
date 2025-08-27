@@ -51,16 +51,16 @@
 
 <p>
   <a href="https://www.instagram.com/keriz_rh/" rel="noopener noreferrer">
-    <img src="https://img.icons8.com/ios-glyphs/30/ffffff/instagram.png" alt="Instagram" title="Instagram"/>
+    <img src="https://img.icons8.com/ios-glyphs/40/ffffff/instagram.png" alt="Instagram" title="Instagram"/>
   </a>
   <a href="https://github.com/kerizrh" rel="noopener noreferrer">
-    <img src="https://img.icons8.com/ios-glyphs/30/ffffff/github.png" alt="GitHub" title="GitHub"/>
+    <img src="https://img.icons8.com/ios-glyphs/40/ffffff/github.png" alt="GitHub" title="GitHub"/>
   </a>
   <a href="https://www.linkedin.com/in/kevin-armando-rivera-henriquez-971016214/" rel="noopener noreferrer">
-    <img src="https://img.icons8.com/ios-glyphs/30/ffffff/linkedin.png" alt="LinkedIn" title="LinkedIn"/>
+    <img src="https://img.icons8.com/ios-glyphs/40/ffffff/linkedin.png" alt="LinkedIn" title="LinkedIn"/>
   </a>
   <a href="https://www.tiktok.com/@kerizrh" rel="noopener noreferrer">
-    <img src="https://img.icons8.com/ios-glyphs/30/ffffff/tiktok.png" alt="TikTok" title="TikTok"/>
+    <img src="https://img.icons8.com/ios-glyphs/40/ffffff/tiktok.png" alt="TikTok" title="TikTok"/>
   </a>
 </p>
 
