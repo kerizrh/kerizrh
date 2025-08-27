@@ -5,8 +5,6 @@
 <p align="center"><b>🚀 A passionate software engineering student and web developer.</b></p>
 <hr/>
 
-## 🤹 About Me
-
 - 🎓 **Software Engineering Student** – Always exploring new technologies and improving my skills.  
 - 💻 **Web Developer** – Focused on building fast, clean, and user-friendly applications.  
 - ⚡ **Tech Enthusiast** – Interested in all things tech, from AI to web development.  
