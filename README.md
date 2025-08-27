@@ -18,10 +18,9 @@
 
 <div>
 <p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=kerizrh&theme=algolia&date_format=M%20j%5B%2C%20Y%5D" 
-    onerror="this.onerror=null; this.src='https://github-readme-stats.vercel.app/api?username=kerizrh&theme=algolia&show_icons=true';" 
-    alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=kerizrh&theme=algolia&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=kerizrh&theme=algolia&show_icons=true" alt="Fallback GitHub Stats"/>
 </p>
 </div>
 
