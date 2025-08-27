@@ -3,28 +3,6 @@
 </p -->
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">,I'm Kevin Rivera (KerizRH)</h1>
 <p align="center"><b>🚀 A passionate software engineering student and web developer.</b></p>
-<hr/>
-
-- 🎓 **Software Engineering Student** – Always exploring new technologies and improving my skills.  
-- 💻 **Web Developer** – Focused on building fast, clean, and user-friendly applications.  
-- ⚡ **Tech Enthusiast** – Interested in all things tech, from AI to web development.  
-- 🌱 **Lifelong Learner** – Constantly learning new tools, frameworks, and programming languages.  
-- 🎮 **Fun & Relaxation** – Lover of music, TV shows, and video games.  
-- 🤝 **Team Player** – Open to collaboration, knowledge sharing, and community projects.
-
-## 🏆 My GitHub Stats
-
-<div>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=kerizrh&theme=algolia&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
-</p>
-</div>
-
-![contrib-graph](https://github.com/kerizrh/kerizrh/raw/output/github-snake.svg#gh-light-mode-only)
-![contrib-graph](https://github.com/kerizrh/kerizrh/raw/output/github-snake-dark.svg#gh-dark-mode-only)
-
-## 🛠 Skills
-
 <p align="center">
   <!-- Languages & Frameworks -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
@@ -50,6 +28,25 @@
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" title="Postman"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" title="Linux"/>
 </p>
+<hr/>
+
+- 🎓 **Software Engineering Student** – Always exploring new technologies and improving my skills.  
+- 💻 **Web Developer** – Focused on building fast, clean, and user-friendly applications.  
+- ⚡ **Tech Enthusiast** – Interested in all things tech, from AI to web development.  
+- 🌱 **Lifelong Learner** – Constantly learning new tools, frameworks, and programming languages.  
+- 🎮 **Fun & Relaxation** – Lover of music, TV shows, and video games.  
+- 🤝 **Team Player** – Open to collaboration, knowledge sharing, and community projects.
+
+## 🏆 My GitHub Stats
+
+<div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=kerizrh&theme=algolia&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
+</p>
+</div>
+
+![contrib-graph](https://github.com/kerizrh/kerizrh/raw/output/github-snake.svg#gh-light-mode-only)
+![contrib-graph](https://github.com/kerizrh/kerizrh/raw/output/github-snake-dark.svg#gh-dark-mode-only)
 
 ## 🔗 Connect with me
 <table align="center">
