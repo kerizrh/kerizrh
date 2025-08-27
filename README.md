@@ -37,6 +37,7 @@
 - 🎮 **Fun & Relaxation** – Lover of music, TV shows, and video games.  
 - 🤝 **Team Player** – Open to collaboration, knowledge sharing, and community projects.
 <hr/>
+
 <div>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=kerizrh&theme=algolia&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
@@ -46,19 +47,21 @@
 ![contrib-graph](https://github.com/kerizrh/kerizrh/raw/output/github-snake.svg#gh-light-mode-only)
 ![contrib-graph](https://github.com/kerizrh/kerizrh/raw/output/github-snake-dark.svg#gh-dark-mode-only)
 <hr/>
+
 <p>
   <a href="https://www.instagram.com/keriz_rh/" rel="noopener noreferrer">
-    <img src="https://img.icons8.com/fluency/40/instagram-new.png" alt="Instagram" title="Instagram"/>
+    <img src="https://img.icons8.com/ios-glyphs/30/000000/instagram.png" alt="Instagram" title="Instagram"/>
   </a>
   <a href="https://github.com/kerizrh" rel="noopener noreferrer">
-    <img src="https://img.icons8.com/ios-glyphs/40/github.png" alt="GitHub" title="GitHub"/>
+    <img src="https://img.icons8.com/ios-glyphs/30/000000/github.png" alt="GitHub" title="GitHub"/>
   </a>
   <a href="https://www.linkedin.com/in/kevin-armando-rivera-henriquez-971016214/" rel="noopener noreferrer">
-    <img src="https://img.icons8.com/color/40/linkedin.png" alt="LinkedIn" title="LinkedIn"/>
+    <img src="https://img.icons8.com/ios-glyphs/30/000000/linkedin.png" alt="LinkedIn" title="LinkedIn"/>
   </a>
   <a href="https://www.tiktok.com/@kerizrh" rel="noopener noreferrer">
-    <img src="https://img.icons8.com/fluency/40/tiktok.png" alt="TikTok" title="TikTok"/>
+    <img src="https://img.icons8.com/ios-glyphs/30/000000/tiktok.png" alt="TikTok" title="TikTok"/>
   </a>
 </p>
+
 
 
