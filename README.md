@@ -53,8 +53,7 @@
   <a href="https://www.instagram.com/keriz_rh/" target="_blank">
     <img src="https://img.icons8.com/fluency/40/instagram-new.png" title="Instagram"/>
   </a>
-<a href="https://github.com/kerizrh" target="_blank" rel="noopener noreferrer" 
-   style="background-color:#000000; padding:8px; border-radius:8px; display:inline-block;">
+<a href="https://github.com/kerizrh" target="_blank" >
     <img src="https://img.icons8.com/ios-glyphs/40/ffffff/github.png" title="GitHub" alt="GitHub"/>
 </a>
 
