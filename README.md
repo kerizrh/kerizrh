@@ -37,8 +37,6 @@
 - 🎮 **Fun & Relaxation** – Lover of music, TV shows, and video games.  
 - 🤝 **Team Player** – Open to collaboration, knowledge sharing, and community projects.
 
-## 🏆 My GitHub Stats
-
 <div>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=kerizrh&theme=algolia&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
