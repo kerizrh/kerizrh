@@ -19,6 +19,8 @@
 <div>
 <p align="center">
   <img src="https://github.com/kerizrh/kerizrh/raw/output/github-stats.svg" alt="GitHub Stats"/>
+  <br/>
+  <img src="https://github.com/kerizrh/kerizrh/raw/output/github-streak.svg" alt="GitHub Streak"/>
 </p>
 </div>
 
