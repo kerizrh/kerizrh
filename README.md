@@ -50,16 +50,16 @@
 
 ## 🔗 Connect with me
 <p>
-  <a href="https://www.instagram.com/keriz_rh/" target="_blank">
+  <a href="https://www.instagram.com/keriz_rh/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.icons8.com/fluency/40/instagram-new.png" title="Instagram"/>
   </a>
-  <a href="https://github.com/kerizrh" target="_blank">
+  <a href="https://github.com/kerizrh" target="_blank" rel="noopener noreferrer">
     <img src="https://img.icons8.com/ios-glyphs/40/github.png" title="GitHub"/>
   </a>
-  <a href="https://www.linkedin.com/in/kevin-armando-rivera-henriquez-971016214/" target="_blank">
+  <a href="https://www.linkedin.com/in/kevin-armando-rivera-henriquez-971016214/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.icons8.com/color/40/linkedin.png" title="LinkedIn"/>
   </a>
-  <a href="https://www.tiktok.com/@kerizrh" target="_blank">
+  <a href="https://www.tiktok.com/@kerizrh" target="_blank" rel="noopener noreferrer">
     <img src="https://img.icons8.com/fluency/40/tiktok.png" title="TikTok"/>
   </a>
 </p>
