@@ -65,5 +65,11 @@
 </p>
 
 
+<p align="center">
+  <a href="" target="_blank">Website ↗</a> •
+  <a href="https://github.com/keriz-rh" target="_blank">GitHub ↗</a> •
+  <a href="https://www.linkedin.com/in/kevin-armando-rivera-henriquez-971016214/" target="_blank">Linkedin ↗</a>
+</p>
+
 
 
