@@ -49,7 +49,7 @@
 
 <hr/>
 
-<p align="center">
+<p>
   <a href="https://www.instagram.com/keriz_rh/" target="_blank">
     <img src="https://img.icons8.com/fluency/40/instagram-new.png" title="Instagram"/>
   </a>
